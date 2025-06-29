@@ -50,11 +50,13 @@
 - ✅ **No Stigma** – Redefines how we approach emotional self-care.
 
 ---
+## 👥 Team Contributors
 
-## 🚀 How to Run Locally
+| Name               | GitHub Profile                            |
+|--------------------|--------------------------------------------|
+| Netravati Ballari  | [@netu2004](https://github.com/netu2004)  |
+| Raksha Parande     | [@paranderaksha](https://github.com/paranderaksha)  |
+| Tanusha Patil      | [@Tanusha-P](https://github.com/Tanusha-P)  |
+| Vaishnavi Wadkar    | [@vaish737](https://github.com/vaish737)  |
 
-```bash
-git clone https://github.com/netu2004/ThrivePath.git
-cd ThrivePath
-pip install -r requirements.txt
-python app.py
+
